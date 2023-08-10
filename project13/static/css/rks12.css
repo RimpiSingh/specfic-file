@@ -1,0 +1,40 @@
+.main{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,350px);            
+    grid-gap:30px 20px;
+    height: 260px;
+    margin: auto;
+    margin-left: 80px;
+        }
+
+.ab{
+    margin: 15px;
+    background-color:rgb(59, 65, 223);
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+        }
+
+.pq{
+    margin: 15px;
+    background-color: rgb(129, 177, 35);
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+         }
+         
+.xy{
+    margin: 15px;
+    background-color: rgb(212, 86, 210);
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+   
